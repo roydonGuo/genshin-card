@@ -1,4 +1,4 @@
-<p align="center"><img src="https://genshin-card.getloli.com/detail/2/160596100.png" alt="genshin-impact-card"></p>
+<p align="center"><img src="http://43.143.33.99:3000/detail/rand/76907318.png" alt="genshin-impact-card"></p>
 
 # genshin-impact-card
 
@@ -8,46 +8,46 @@ Genshin Impact user info card generator.
 <details>
 <summary>All Themes</summary>
 
-![](https://genshin-card.getloli.com/detail/0/160596100.png)
-![](https://genshin-card.getloli.com/detail/1/160596100.png)
-![](https://genshin-card.getloli.com/detail/2/160596100.png)
-![](https://genshin-card.getloli.com/detail/3/160596100.png)
-![](https://genshin-card.getloli.com/detail/4/160596100.png)
-![](https://genshin-card.getloli.com/detail/5/160596100.png)
-![](https://genshin-card.getloli.com/detail/6/160596100.png)
-![](https://genshin-card.getloli.com/detail/7/160596100.png)
-![](https://genshin-card.getloli.com/detail/8/160596100.png)
-![](https://genshin-card.getloli.com/detail/9/160596100.png)
-![](https://genshin-card.getloli.com/detail/10/160596100.png)
-![](https://genshin-card.getloli.com/detail/11/160596100.png)
-![](https://genshin-card.getloli.com/detail/12/160596100.png)
-![](https://genshin-card.getloli.com/detail/13/160596100.png)
-![](https://genshin-card.getloli.com/detail/14/160596100.png)
-![](https://genshin-card.getloli.com/detail/15/160596100.png)
-![](https://genshin-card.getloli.com/detail/16/160596100.png)
-![](https://genshin-card.getloli.com/detail/17/160596100.png)
-![](https://genshin-card.getloli.com/detail/18/160596100.png)
-![](https://genshin-card.getloli.com/detail/19/160596100.png)
-![](https://genshin-card.getloli.com/detail/20/160596100.png)
-![](https://genshin-card.getloli.com/detail/21/160596100.png)
-![](https://genshin-card.getloli.com/detail/22/160596100.png)
-![](https://genshin-card.getloli.com/detail/23/160596100.png)
-![](https://genshin-card.getloli.com/detail/24/160596100.png)
-![](https://genshin-card.getloli.com/detail/25/160596100.png)
-![](https://genshin-card.getloli.com/detail/26/160596100.png)
-![](https://genshin-card.getloli.com/detail/27/160596100.png)
-![](https://genshin-card.getloli.com/detail/28/160596100.png)
-![](https://genshin-card.getloli.com/detail/29/160596100.png)
-![](https://genshin-card.getloli.com/detail/30/160596100.png)
-![](https://genshin-card.getloli.com/detail/31/160596100.png)
-![](https://genshin-card.getloli.com/detail/32/160596100.png)
-![](https://genshin-card.getloli.com/detail/33/160596100.png)
-![](https://genshin-card.getloli.com/detail/34/160596100.png)
-![](https://genshin-card.getloli.com/detail/35/160596100.png)
-![](https://genshin-card.getloli.com/detail/36/160596100.png)
-![](https://genshin-card.getloli.com/detail/37/160596100.png)
-![](https://genshin-card.getloli.com/detail/38/160596100.png)
-![](https://genshin-card.getloli.com/detail/39/160596100.png)
+![](https://genshin-card.getloli.com/detail/0/76907318.png)
+![](https://genshin-card.getloli.com/detail/1/76907318.png)
+![](https://genshin-card.getloli.com/detail/2/76907318.png)
+![](https://genshin-card.getloli.com/detail/3/76907318.png)
+![](https://genshin-card.getloli.com/detail/4/76907318.png)
+![](https://genshin-card.getloli.com/detail/5/76907318.png)
+![](https://genshin-card.getloli.com/detail/6/76907318.png)
+![](https://genshin-card.getloli.com/detail/7/76907318.png)
+![](https://genshin-card.getloli.com/detail/8/76907318.png)
+![](https://genshin-card.getloli.com/detail/9/76907318.png)
+![](https://genshin-card.getloli.com/detail/10/76907318.png)
+![](https://genshin-card.getloli.com/detail/11/76907318.png)
+![](https://genshin-card.getloli.com/detail/12/76907318.png)
+![](https://genshin-card.getloli.com/detail/13/76907318.png)
+![](https://genshin-card.getloli.com/detail/14/76907318.png)
+![](https://genshin-card.getloli.com/detail/15/76907318.png)
+![](https://genshin-card.getloli.com/detail/16/76907318.png)
+![](https://genshin-card.getloli.com/detail/17/76907318.png)
+![](https://genshin-card.getloli.com/detail/18/76907318.png)
+![](https://genshin-card.getloli.com/detail/19/76907318.png)
+![](https://genshin-card.getloli.com/detail/20/76907318.png)
+![](https://genshin-card.getloli.com/detail/21/76907318.png)
+![](https://genshin-card.getloli.com/detail/22/76907318.png)
+![](https://genshin-card.getloli.com/detail/23/76907318.png)
+![](https://genshin-card.getloli.com/detail/24/76907318.png)
+![](https://genshin-card.getloli.com/detail/25/76907318.png)
+![](https://genshin-card.getloli.com/detail/26/76907318.png)
+![](https://genshin-card.getloli.com/detail/27/76907318.png)
+![](https://genshin-card.getloli.com/detail/28/76907318.png)
+![](https://genshin-card.getloli.com/detail/29/76907318.png)
+![](https://genshin-card.getloli.com/detail/30/76907318.png)
+![](https://genshin-card.getloli.com/detail/31/76907318.png)
+![](https://genshin-card.getloli.com/detail/32/76907318.png)
+![](https://genshin-card.getloli.com/detail/33/76907318.png)
+![](https://genshin-card.getloli.com/detail/34/76907318.png)
+![](https://genshin-card.getloli.com/detail/35/76907318.png)
+![](https://genshin-card.getloli.com/detail/36/76907318.png)
+![](https://genshin-card.getloli.com/detail/37/76907318.png)
+![](https://genshin-card.getloli.com/detail/38/76907318.png)
+![](https://genshin-card.getloli.com/detail/39/76907318.png)
 </details>
 
 ## Demo
@@ -74,12 +74,6 @@ $ yarn install
 $ export COOKIE="Your mihoyo BBS Cookie Here"
 $ yarn serve
 ```
-
-#### 自建图文指南
-
-*   By [BlueSkyXN](https://github.com/BlueSkyXN/Genshin-card)
-*   [Genshin-card 原神玩家信息小卡片生成器自建指南](https://www.blueskyxn.com/202102/4008.html)
-
 
 ## Credits
 
