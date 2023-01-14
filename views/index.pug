@@ -25,16 +25,16 @@ html
     h3 使用方法:
 
     h5 SVG 地址
-    code http://43.143.33.99:3000/{背景编号}/{米游社ID}.png
+    code http://genshin.yicheng.love/{背景编号}/{米游社ID}.png
 
     h5 Img 标签
-    code &lt;img src="http://43.143.33.99:3000/{背景编号}/{米游社ID}.png" alt="genshin-card" />
+    code &lt;img src="http://genshin.yicheng.love/{背景编号}/{米游社ID}.png" alt="genshin-card" />
 
     h5 BBCode
-    code [img]http://43.143.33.99:3000/{背景编号}/{米游社ID}.png[/img]
+    code [img]http://genshin.yicheng.love/{背景编号}/{米游社ID}.png[/img]
 
     h5 Markdown
-    code ![](http://43.143.33.99:3000/{背景编号}/{米游社ID}.png)
+    code ![](http://genshin.yicheng.love/{背景编号}/{米游社ID}.png)
 
     h3 背景编号
     h5 <code>rand</code> 随机背景
@@ -45,11 +45,11 @@ html
       3-5,7,9,12-15 -> [3, 4, 5, 7, 9, 12, 13, 14, 15]
 
     h3 示例:
-    img(src="http://43.143.33.99:3000/rand/76907318.png" alt="示例图片")
+    img(src="http://genshin.yicheng.love/rand/76907318.png" alt="示例图片")
 
     h3 Tool
     .tool
-      code http://43.143.33.99:3000
+      code http://genshin.yicheng.love
       input#bgIdx(type='text', value='0', style='display: inline-block; width: 40px; height: 1.4em; line-height: 1.4em; margin: 0 4px; vertical-align: middle;')
       code /
       input#uid(type='text', placeholder='米游社ID', style='display: inline-block; width: 120px; height: 1.4em; line-height: 1.4em; margin: 0 4px; vertical-align: middle;')
@@ -71,7 +71,7 @@ html
             return
           }
 
-          img.src = 'http://43.143.33.99:3000/' + bgIdx + '/' + uid + '.png'
+          img.src = 'http://genshin.yicheng.love/' + bgIdx + '/' + uid + '.png'
         })
 
     script.
